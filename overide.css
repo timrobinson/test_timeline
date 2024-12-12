@@ -1,0 +1,7 @@
+:root {
+    --dt-background: indigo !important; /* Globally override the background variable */
+}
+
+.yYWAMb {
+    background: indigo !important; /* Directly target the specific class */
+}
